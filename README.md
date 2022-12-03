@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am Kinga and curently I am studying at AGH (known as University of Science and Technology).
-Here you can see my GitHub Pages site: [[https://kingaa1.github.io/]]
+
+Here you can see my GitHub Pages site: https://kingaa1.github.io/
 <!--
 **kingaa1/kingaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
