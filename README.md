@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kinga and curently I am studying at AGH (known as University of Science and Technology).
+I am Kinga and curently I am studying at AGH University of Science and Technology.
 
 Here you can see my GitHub Pages site: https://kingaa1.github.io/
 <!--
